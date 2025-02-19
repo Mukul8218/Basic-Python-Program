@@ -1,4 +1,4 @@
-'''                                                           #CONDITIONAL STATEMENT#
+                                                           #CONDITIONAL STATEMENT#
 
 #WAP to calculate gross salary of an employ where hra is 20% da is 30% of basic
 bs=float(input("enter basic salary: "))
@@ -426,7 +426,7 @@ s1={'arjun', 'prateek', 'ritika', 'atul', 'vikas', 'priyanshu', 'mukul'}
 s2={"mukul",1,"mukku",2,3,4,"don"}
 s1.symmetric_difference_update(s2)
 print(s1)
-'''
+
 
 
 
