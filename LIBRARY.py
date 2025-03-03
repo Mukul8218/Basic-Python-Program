@@ -1,4 +1,4 @@
-'''
+
                                                                                                      #BUIT_IN_LIBRARY#
 built in methods/function
 math library
@@ -7,10 +7,10 @@ log,exp,sin,cos,tan,cot,cosh,sinh,tanh,etc
 
 import math
 print(math.sqrt(9))
-#import math
-#from math import sqrt,pow
-#print(math.fabs(5-10)) ->always positive value
-#import math as m
+import math
+from math import sqrt,pow
+print(math.fabs(5-10)) ->always positive value
+import math as m
 print(m.sqrt(9))
 
                                                                                              ##RANDOM LIBRARY##
@@ -32,7 +32,6 @@ print(count)
 import datetime
 time=datetime.datetime.now()
 print(time)
-'''
 
 
 
