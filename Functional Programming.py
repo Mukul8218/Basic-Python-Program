@@ -1,9 +1,9 @@
-'''
-                                                                                      #Functional Programming#
-#------------------------------------------------------------------UDF:-User Define Functions---------------------------------------------------------#
-#Function:-A function is a block of statements that perform a specific task and return a value.
 
-#we will use def keyword to define a function.
+                                                                    Functional Programming#
+------------------------------------------------------------------UDF:-User Define Functions---------------------------------------------------------#
+Function:-A function is a block of statements that perform a specific task and return a value.
+
+we will use def keyword to define a function.
 
 Syntax:-
 def function_name(argument):
@@ -117,7 +117,7 @@ def findhcf(num1,num2):
 
 print(findhcf(12,10))
 #WAF to check if a number is palondrome or not.
-'''
+
 def palondrome(str):
     a=input("enter string: ")
     b=a[-1::1]
